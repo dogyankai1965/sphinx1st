@@ -1,4 +1,0 @@
-Pillow
-Sphinx
-setuptools
-recommonmark

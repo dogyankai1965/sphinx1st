@@ -1,4 +1,0 @@
-# sphinx-sample
-
-Sphinx のサンプルプロジェクトです
-
