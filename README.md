@@ -1,1 +1,4 @@
-# sphinx1st
+# sphinx-sample
+
+Sphinx のサンプルプロジェクトです
+
